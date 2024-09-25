@@ -7,10 +7,9 @@
 - Estoy ocupado "PROGRAMANDO"
 - ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5zfs5Axb1XVMGvy0QHZHB2VCr1ZfneR6Gg&s) 
 - Actualmente trabajao aqui [Markdown Guide](https://covesdesantjosep.es/)
+- ** COSAS QUE ME GUSTAN: **
 - Me gustan los animales y viajar[Markdown Guide](https://www.instagram.com/jesus7vall?igsh=MXJ3dXdhN3FtMnV4MA%3D%3D&utm_source=qr)
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I tambien comer 
 
 <!---
 jesus7vall/jesus7vall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
