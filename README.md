@@ -1,4 +1,4 @@
- ![alt text](https://i.pinimg.com/564x/55/e8/42/55e8422f53f322c307443aa6e8e670ab.jpg) # Hola manin @jesus7vall
+ ![alt text](https://i.pinimg.com/564x/55/e8/42/55e8422f53f322c307443aa6e8e670ab.jpg) #Hola manin @jesus7vall
 - Estoy ocupado "PROGRAMANDO"
 - ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5zfs5Axb1XVMGvy0QHZHB2VCr1ZfneR6Gg&s) 
 - Actualmente trabajao aqui [Markdown Guide](https://covesdesantjosep.es/)
